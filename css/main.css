@@ -28,3 +28,8 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 .cv .div {display: inline-block}
+
+#framer{
+  width: 100%;
+  height: 100% !important;
+}
