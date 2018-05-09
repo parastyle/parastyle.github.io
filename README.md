@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/parastyle/static_page/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-{{ https://parastyle.github.io/ }}resume.pdf
+{{ https://parastyle.github.io/static_page }}/resume.pdf
 
 <embed src="https://parastyle.github.io/resume.pdf" type="application/pdf" />
 
