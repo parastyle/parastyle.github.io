@@ -5,7 +5,7 @@ date: 2018-05-21
 ---
 
 <iframe src="https://parastyle.shinyapps.io/national_vs_state/"
-        height="100%" width="100%"
+        height="500" width="100%"
         scrolling="no" seamless="seamless"
         frameBorder="0"
         align="center">
