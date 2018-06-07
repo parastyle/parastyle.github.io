@@ -9,4 +9,14 @@ date: 2018-05-21
         scrolling="no" seamless="seamless"
         frameBorder="0"
         align="center">
+<iframe src="https://data-viz-dash-app-pres.herokuapp.com/"
+        height="500" width="50%"
+        scrolling="no" seamless="seamless"
+        frameBorder="0"
+        align="center">
+<iframe src="https://line-graph-app.herokuapp.com/"
+        height="500" width="50%"
+        scrolling="no" seamless="seamless"
+        frameBorder="0"
+        align="center">
 
