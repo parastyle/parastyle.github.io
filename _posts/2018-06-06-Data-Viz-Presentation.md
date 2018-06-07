@@ -3,7 +3,6 @@ layout: post
 title: "Michael Muller, Recent Visualizations"
 date: 2018-05-21
 ---
-
 <h3>Google visuals | Hosted on Shiny</h3>
 <iframe src="https://parastyle.shinyapps.io/national_vs_state/"
         height="500" width="100%"
@@ -16,6 +15,7 @@ date: 2018-05-21
         scrolling="no" seamless="seamless"
         frameBorder="0"
         align="center"></iframe>
+<p>Heroku applications may take a bit to start up</p>
 <h3>Google visuals | Hosted on Heroku</h3>
 <iframe src="https://data-viz-dash-app-pres.herokuapp.com/"
         height="500" width="40%"
