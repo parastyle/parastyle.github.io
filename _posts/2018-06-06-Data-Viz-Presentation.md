@@ -15,7 +15,7 @@ date: 2018-05-21
         scrolling="no" seamless="seamless"
         frameBorder="0"
         align="center"></iframe>
-<p>Heroku applications may take a bit to start up</p>
+<h5>Heroku applications may take a bit to start up</h5>
 <h3>Google visuals | Hosted on Heroku</h3>
 <iframe src="https://data-viz-dash-app-pres.herokuapp.com/"
         height="500" width="40%"
